@@ -9,12 +9,12 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "/frederika/icon1.png",
+      "src": "/frederika-pwa/icon1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/frederika/icon2.png",
+      "src": "/frederika-pwa/icon2.png",
       "sizes": "512x512",
       "type": "image/png"
     }
