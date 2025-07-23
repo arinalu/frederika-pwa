@@ -1,7 +1,7 @@
 const CACHE_NAME = 'frederika-cache-v1';
 const urlsToCache = [
   '/',
-  '/fika.html',
+  '/index.html',
   '/about.html',
   '/photos.html',
   '/reviews.html',
