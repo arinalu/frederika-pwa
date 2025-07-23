@@ -1,0 +1,20 @@
+{
+  "name": "Самая лучшая кошка",
+  "short_name": "Фредерика",
+  "start_url": "/fika.html",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#4a4a4a",
+  "icons": [
+    {
+      "src": "icon1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
