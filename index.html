@@ -19,17 +19,10 @@
     <!-- Service Worker -->
     <script>
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('sw.js')
-                    .then(function(registration) {
-                        console.log('ServiceWorker успешно зарегистрирован');
-                    })
-                    .catch(function(err) {
-                        console.log('Ошибка регистрации ServiceWorker:', err);
-                    });
-            });
+            navigator.serviceWorker.register('./sw.js', { scope: '/frederika-pwa/' })
         }
     </script>
+	
 </head>
 
 <body>
