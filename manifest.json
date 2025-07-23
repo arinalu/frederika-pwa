@@ -1,7 +1,7 @@
 {
   "name": "Самая лучшая кошка",
   "short_name": "Фредерика",
-  "start_url": ".",
+  "start_url": "/frederika-pwa/index.html",
   "display": "standalone",
   "background_color": "#f8f8f8",
   "theme_color": "#4a4a4a",
