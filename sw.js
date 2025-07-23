@@ -1,13 +1,12 @@
 const CACHE_NAME = 'frederika-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/about.html',
-  '/photos.html',
-  '/reviews.html',
-  '/style.css',
-  '/icon1.png',
-  '/icon2.png'
+  './index.html',
+  './about.html',
+  './photos.html',
+  './reviews.html',
+  './style.css',
+  './icon1.png',
+  './icon2.png'
 ];
 
 self.addEventListener('install', (event) => {
