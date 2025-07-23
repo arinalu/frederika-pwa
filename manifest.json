@@ -5,6 +5,8 @@
   "display": "standalone",
   "background_color": "#f8f8f8",
   "theme_color": "#4a4a4a",
+  "orientation": "any",
+  "dir": "ltr"
   "icons": [
     {
       "src": "icon1.png",
